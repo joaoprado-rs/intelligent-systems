@@ -1,4 +1,4 @@
-# Intelligent Systems — UFABC
+# Intelligent Systems - UFABC
 
 Study repository for **Sistemas Inteligentes (ESZI014-17)**, an undergraduate
 course at the Federal University of ABC (UFABC), Brazil. It holds the lab
